@@ -194,4 +194,4 @@ This repository serves as the official landing page for SpiderOak. The software 
 **Get the most recent version of SpiderOak today!**
 
 ---
-**Last updated:** 2026-11-08 23:29:58 UTC
+**Last updated:** 2026-11-09 05:27:18 UTC
